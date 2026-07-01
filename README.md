@@ -1,7 +1,7 @@
 # RAG Document Intelligence Platform
 
 ## Project Overview
-The Document Portal Analysis platform automates the process of reviewing, comparing, and querying business documents such as invoices and reports from multiple vendors. By leveraging Retrieval-Augmented Generation (RAG) and large language models, it provides insights, highlights differences, and enables interactive document exploration, reducing manual work and improving decision-making efficiency.
+The Document Portal Analysis platform automates the process of reviewing, comparing, and querying business documents such as invoices and reports from multiple vendors. By leveraging Retrieval-Augmented Generation (RAG) and large language models, it provides insights, highlights differences, and enables interactive document exploration, reducing manual work and improving decision-making efficiency. 
 
 ## Use Case
 Businesses often receive numerous reports or invoices from global vendors, which are time-consuming to review manually. This portal provides a unified interface for analyzing documents, comparing them, and querying content interactively, streamlining operational workflows.
